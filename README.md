@@ -1,3 +1,6 @@
 # swangsy_2022_02_03
 
-:sparkles: je sais po :sparkles: 
+:sparkles: j'aime bien être dans un coin :sparkles: 
+
+
+
