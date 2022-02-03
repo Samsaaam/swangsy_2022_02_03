@@ -2,5 +2,5 @@
 
 :sparkles: j'aime bien être dans un coin :sparkles: 
 
-![picture](pictures/shyguypic.jpg) 
+![picture](picture/shyguypic.jpg)
 
