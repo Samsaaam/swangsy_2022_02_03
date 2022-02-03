@@ -6,7 +6,5 @@ Ma couleur préféré est le rouge :red_circle:
 
 ![picture](picture/shyguypic.jpg)
 
-![picture](picture/plushypic.gif)
-
 
 
