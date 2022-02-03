@@ -2,5 +2,7 @@
 
 :sparkles: j'aime bien être dans un coin :sparkles: 
 
+Ma couleur préféré est le rouge :red_circle:
+
 ![picture](picture/shyguypic.jpg)
 
